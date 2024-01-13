@@ -134,6 +134,7 @@
 /lib/modules/mtk_printk_ctrl.ko:
 /lib/modules/tran_expand_key.ko: /lib/modules/monitor_hang.ko /lib/modules/mtk-pmic-keys.ko /lib/modules/transsion_tranlog.ko /lib/modules/mrdump.ko
 /lib/modules/sc8548_charger.ko: /lib/modules/charger_class.ko
+/lib/modules/sdcard_debug.ko:
 /lib/modules/pinctrl-mt6789.ko: /lib/modules/pinctrl-mtk-v2.ko
 /lib/modules/cfg80211.ko:
 /lib/modules/fs3xxx_haptic.ko:

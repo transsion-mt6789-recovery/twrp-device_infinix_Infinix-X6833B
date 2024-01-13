@@ -191,3 +191,4 @@ tran_perf_util.ko
 tran_expand_key.ko
 lzo.ko
 lzo-rle.ko
+sdcard_debug.ko
